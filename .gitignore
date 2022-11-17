@@ -3,4 +3,4 @@ bin/
 *.csv
 *.parquet
 *.ipynb
-docker_sql/ny_taxi_postgres_data/*
+week_1/docker_sql/ny_taxi_postgres_data/*
