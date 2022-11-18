@@ -21,7 +21,8 @@ services:
         env_file:
             - .env
         volumes:
-            - ./dags:/opt/airflow/dags
+            # - ./dags:/opt/airflow/dags
+            - ./dags_local:/opt/airflow/dags
             - ./logs:/opt/airflow/logs
             - ./plugins:/opt/airflow/plugins
             - ./scripts:/opt/airflow/scripts

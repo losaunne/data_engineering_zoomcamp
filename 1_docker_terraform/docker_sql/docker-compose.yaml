@@ -21,5 +21,4 @@ services:
 
 networks:
   airflow:
-    external:
-      name: 2_airflow_default
+    name: 2_airflow_default
