@@ -5,4 +5,4 @@ bin/
 *.ipynb
 1_docker_terraform/docker_sql/ny_taxi_postgres_data/*
 __pycache__
-2_airflow/logs/*
+2_airflow/logs/
