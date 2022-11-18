@@ -3,4 +3,5 @@ bin/
 *.csv
 *.parquet
 *.ipynb
-week_1/docker_sql/ny_taxi_postgres_data/*
+1_docker_terraform/docker_sql/ny_taxi_postgres_data/*
+__pycache__
